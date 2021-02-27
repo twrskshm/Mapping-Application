@@ -13,8 +13,10 @@ Obstacles are randomly added to the paths to simulate real life scenarios.
 3a. Applying breadth first search:
 ![Three](https://user-images.githubusercontent.com/60761912/109378084-a8ac6100-789d-11eb-88d1-dc8458b1aea8.PNG)
 
-3a. Applying depth first search:
+3b. Applying depth first search:
 ![Four](https://user-images.githubusercontent.com/60761912/109378087-ac3fe800-789d-11eb-81ea-8a1a14b701be.PNG)
 
-3a. Applying Dijkstra algorithm:
+3c. Applying Dijkstra algorithm:
 ![Five](https://user-images.githubusercontent.com/60761912/109378089-afd36f00-789d-11eb-97c8-d03ec28856a5.PNG)
+
+3d. Applying A* algorithm:
