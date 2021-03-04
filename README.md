@@ -18,5 +18,3 @@ Obstacles are randomly added to the paths to simulate real life scenarios.
 
 3c. Applying Dijkstra algorithm:
 ![Five](https://user-images.githubusercontent.com/60761912/109378089-afd36f00-789d-11eb-97c8-d03ec28856a5.PNG)
-
-3d. Applying A* algorithm:
